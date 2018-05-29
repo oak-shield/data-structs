@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Igor/Desktop/binary_tree/main.c
+tree.h
+C:/Users/Igor/Desktop/binary_tree/tree.h
+stdio.h
+-
+
+C:/Users/Igor/Desktop/binary_tree/tree.c
+stdlib.h
+-
+stdio.h
+-
+tree.h
+C:/Users/Igor/Desktop/binary_tree/tree.h
+
+C:/Users/Igor/Desktop/binary_tree/tree.h
+
